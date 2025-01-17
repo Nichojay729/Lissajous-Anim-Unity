@@ -12,7 +12,7 @@ public class ObjectRotation : MonoBehaviour
         objectA.transform.position = new Vector3(0, 0, 0); // Origin
         objectB.transform.position = new Vector3(5, 0, 0); // Offset to the right
 
-        // Make Object A bigger for better visibility
+        // Object A looked small..Make Object A bigger for better visibility
         objectA.transform.localScale = new Vector3(1, 1, 1);
     }
 
