@@ -27,7 +27,12 @@ public class ProceduralMeshCreator : MonoBehaviour
 
         // Assign material and adjust scale
         objectA.GetComponent<MeshRenderer>().material = material;
-        objectA.transform.localScale = new Vector3(1, 1, 1);
+        // Scale down Object A and Object B
+        if (gameObject.name == "ObjectA") { 
+            transform.localScale = new Vector3(0.1f, 0.1f, 0.1f); 
+           } else if (gameObject.name == "ObjectB") { transform.localScale = new Vector3(0.1f, 0.1f, 0.1f); }
+
+
     }
 
     Mesh GenerateCombinedMesh()

@@ -1,0 +1,5 @@
+C:/Users/devel/Downloads/Github/Lissajous-Anim-Unity/.utmp/RelWithDebInfo/1l3h4a4y/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/devel/Downloads/Github/Lissajous-Anim-Unity/.utmp/RelWithDebInfo/1l3h4a4y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/devel/Downloads/Github/Lissajous-Anim-Unity/.utmp/RelWithDebInfo/1l3h4a4y/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/devel/Downloads/Github/Lissajous-Anim-Unity/.utmp/RelWithDebInfo/1l3h4a4y/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/devel/Downloads/Github/Lissajous-Anim-Unity/.utmp/RelWithDebInfo/1l3h4a4y/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

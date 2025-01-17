@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Liss-curves.unity
+    guid: 9f4c9b90d1621ba47a4eddf7e55f25fa
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/3.0.7/Hands Interaction Demo/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 363ec285d62c2a44e828a8978f1de168, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 93197e6f482e87c40895046f5bf6cd91, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 918a591d09c3b2d4f90b02e4f7c29998, type: 2}
   m_UseUCBPForAssetBundles: 0

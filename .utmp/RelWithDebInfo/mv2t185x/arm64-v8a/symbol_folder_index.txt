@@ -1,0 +1,1 @@
+C:\Users\devel\Downloads\Github\Lissajous-Anim-Unity\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\mv2t185x\obj\arm64-v8a
