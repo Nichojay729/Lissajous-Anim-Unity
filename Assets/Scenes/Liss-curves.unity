@@ -579,8 +579,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1526479597}
   - component: {fileID: 1526479596}
+  - component: {fileID: 1526479601}
   - component: {fileID: 1526479599}
-  - component: {fileID: 1526479598}
   - component: {fileID: 1526479600}
   m_Layer: 0
   m_Name: Object A
@@ -618,14 +618,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1526479598
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1526479595}
-  m_Mesh: {fileID: 0}
 --- !u!23 &1526479599
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -787,6 +779,20 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1
+--- !u!114 &1526479601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526479595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b7095839fd2504f8100758cd04ccc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noiseScale: 0.5
+  speed: 1
 --- !u!1 &1821729566
 GameObject:
   m_ObjectHideFlags: 0
