@@ -12,6 +12,7 @@ This Unity project showcases procedural 3D object creation, animation, and inter
 - Vertex animation using Perlin noise to create organic mesh deformation.
 - AR/VR integration for Meta Quest with hand-tracking support for interaction (Meta XR Building Blocks).
 
+![Demo of Project](./assets/demo.gif)
 
 Setup Instructions:
 
@@ -53,5 +54,3 @@ Lissajous Curve Animations
 - Interactions are handled using the XR Interaction Toolkit and Oculus APIs.
 
 Thank you for reviewing this project!
-
-
