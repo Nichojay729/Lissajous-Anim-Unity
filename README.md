@@ -4,7 +4,7 @@
 *********README***********
 
 Project Overview:
-This Unity project demonstrates skills in 3D object creation, animation, and interaction. The main features include:
+This Unity project showcases procedural 3D object creation, animation, and interaction. The main features include:
 - Procedural mesh creation for Object A (a sphere with a cone in front).
 - Lissajous curve animations for both objects to create dynamic, aperiodic motion.
 - Object rotation logic for Object A to always face Object B.
